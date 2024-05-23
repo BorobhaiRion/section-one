@@ -1,0 +1,8 @@
+Camry,2600000,
+Corolla,2100000,
+Cybertruck,5000000,
+Wrangler,3300000,
+Gladiator,3800000,
+Compass,2800000,
+Range Rover Sport,8500000,
+Land Rover Discovery,5900000,
