@@ -1,3 +1,0 @@
-LOAN(January),5000000,Paid,
-Bills Cost,10000,Paid,
-CUSTOMERS DUE(February),500000,Due,
